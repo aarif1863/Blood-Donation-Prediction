@@ -1,3 +1,4 @@
+![blood_donationcover](https://user-images.githubusercontent.com/79160845/120407601-1d92a980-c36b-11eb-9f35-242115538d0e.jpeg)
 # Blood-Donation-Prediction
 Problem
 Predicting if a Blood Donor will donate within a given time window?
@@ -46,3 +47,4 @@ File Descriptions
 ./Blood Donation Prediction.ipynb is a Jupyter notebook containing the work I have done.
 References & Citations
 Data provided by
+kaggle
