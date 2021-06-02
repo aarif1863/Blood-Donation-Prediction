@@ -1,15 +1,18 @@
 ![blood_donationcover](https://user-images.githubusercontent.com/79160845/120407601-1d92a980-c36b-11eb-9f35-242115538d0e.jpeg)
 # Blood-Donation-Prediction
 Problem
+
 Predicting if a Blood Donor will donate within a given time window?
 
 Application
+
 By solving this problem the blood donation camps can get 40% more blood donors.
 
 Sourcerer
 
 
 Code Requirements
+
 The example code is in Python (version 3.6.6 or higher will work).
 
 Dependencies
